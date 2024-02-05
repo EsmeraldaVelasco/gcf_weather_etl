@@ -4,3 +4,4 @@ exports.readObservation = (file, context) => {
     console.log(`  Bucket: ${file.bucket}`);
     console.log(`  File: ${file.name}`);
 }
+
